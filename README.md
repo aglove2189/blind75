@@ -3,7 +3,7 @@
 **Problem** | **Solution** | **Time** | **Space**
 -- | :-: | :-: | :-:
 [TwoSum](https://leetcode.com/problems/two-sum/) | [solution](solutions/twosum.py) | O(n) | O(n)
-[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [solution](solutions/isvalid.py) | O(n) | O(n)
 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
